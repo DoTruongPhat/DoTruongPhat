@@ -11,7 +11,7 @@
 - 💡 Interested in building scalable backend systems
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Builder"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Do%20Truong%20Phat&fontSize=45&fontAlign=50&fontAlignY=40&desc=Java%20Backend%20Developer&descAlign=50&descAlignY=65&fontColor=ffffff"/>
 </p>
 
 ## 🕶 Featured Project
@@ -25,10 +25,9 @@
 
 👉 https://github.com/DoTruongPhat/glass-store
 
-
 ## ⚒️ Languages-Frameworks-Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,sql,git,github,intellij,postman" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,mysql,git,github,idea,postman&perline=5" />
 </p>
 
 ## 🐍 My Contributions
@@ -38,7 +37,7 @@
 
 ## 🔥 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DoTruongPhat&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DoTruongPhat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoTruongPhat&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
