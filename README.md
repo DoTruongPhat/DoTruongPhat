@@ -25,7 +25,9 @@
 
 ## ⚒️ Languages-Frameworks-Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,mysql,git,github,idea,postman&perline=5" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,git,github,idea,postman&perline=5" />
+<br/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ## 🐍 My Contributions
