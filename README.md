@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=PhatDo%20Developer&fontSize=40&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Do Truong Phat%20Developer&fontSize=40&fontColor=fff"/>
 
 <h1 align="center">Hi 👋, I'm Phat Do</h1>
 <h3 align="center">Java Backend Developer | Spring Boot | REST API</h3>
@@ -23,8 +23,8 @@
 
 ## 🔥 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FatDo&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatDo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=FattDo&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FattDo&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🕶 Featured Project
