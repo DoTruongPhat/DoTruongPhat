@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Phat%20Developer&fontSize=40&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=PhatDo%20Developer&fontSize=40&fontColor=fff"/>
 
 <h1 align="center">Hi 👋, I'm Phat Do</h1>
 <h3 align="center">Java Backend Developer | Spring Boot | REST API</h3>
