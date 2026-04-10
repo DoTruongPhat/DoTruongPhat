@@ -30,10 +30,6 @@
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-## 🐍 My Contributions
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DoTruongPhat&theme=react-dark&hide_border=true&area=true"/>
-</p>
 
 ## 🔥 GitHub Stats
 <p align="center">
