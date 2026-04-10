@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=230&section=header&text=Do%20Truong%20Phat&fontSize=52&fontAlign=50&fontAlignY=35&desc=Backend%20Developer%20|%20Spring%20Boot&descAlign=50&descAlignY=65&fontColor=ffffff&animation=twinkling"/>
+<img src="https://raw.githubusercontent.com/DoTruongPhat/DoTruongPhat/main/banner.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Phat Do</h1>
