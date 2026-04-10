@@ -18,7 +18,7 @@
 
 ## 🐍 My Contributions
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DoTruongPhat&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DoTruongPhat&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ## 🔥 GitHub Stats
@@ -30,6 +30,4 @@
 ## 🕶 Featured Project
 
 ### Glass Store Web Application
-Fullstack e-commerce eyewear system built with Spring Boot, ReactJS and SQL Server.
 
-👉 https://github.com/yourusername/glass-store
