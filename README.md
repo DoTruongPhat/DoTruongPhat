@@ -18,13 +18,13 @@
 
 ## 🐍 My Contributions
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DoTruongPhat&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FattDo&theme=tokyo-night"/>
 </p>
 
 ## 🔥 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DoTruongPhat&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoTruongPhat&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=FattDo&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FattDo&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🕶 Featured Project
