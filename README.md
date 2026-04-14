@@ -21,7 +21,7 @@
 - Responsive UI built with ReactJS
 - SQL Server database
 
-👉 https://github.com/DoTruongPhat/glass-store
+👉 [https://github.com/DoTruongPhat/glass-store](https://github.com/DoTruongPhat/GlassWeb)
 
 ## ⚒️ Languages-Frameworks-Tools
 <p align="center">
