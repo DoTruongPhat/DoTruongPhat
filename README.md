@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="./assets/profile/hero.mp4">
+    <img src="./assets/profile/key-visual-preview.png" alt="PHAT DO - Fullstack Developer" width="100%" />
+  </a>
+  <br />
+  <sub>Click the banner to watch the hero video.</sub>
+</p>
+
 <h1 align="center">PHAT DO</h1>
 <h3 align="center">Fullstack Developer | Java • Spring Boot • Angular • React</h3>
 
@@ -30,6 +38,15 @@ I am a fullstack developer focused on building modern web applications with Java
 | Messaging | Kafka |
 | DevOps / Observability | Docker, OpenTelemetry, Git, GitHub |
 | Tools | IntelliJ IDEA, Visual Studio / VS Code |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,js,ts,html,css,postgres,redis,kafka,docker,git,github,idea,vscode,postman&perline=9" alt="Tech stack icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+</p>
 
 ## Featured Projects
 
