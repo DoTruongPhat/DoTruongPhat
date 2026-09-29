@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="PHAT DO - Fullstack Developer" width="100%" />
+  <img src="./assets/profile/hero-animatic-preview.gif" alt="PHAT DO - Fullstack Developer" />
 </p>
 
 <h1 align="center">PHAT DO</h1>
@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DoTruongPhat?tab=repositories">Repositories</a>
-  ·
-  <a href="mailto:dotruongphat9@gmail.com">Email</a>
+  <a href="https://github.com/DoTruongPhat?tab=repositories">GitHub: DoTruongPhat</a>
 </p>
 
 ---
@@ -87,7 +85,7 @@ Booking Service ---> JasperReports
 Services        ---> OpenTelemetry ---> Grafana / Loki / Tempo / Prometheus
 ```
 
-## GitHub Activity
+## GitHub Stats
 
 - Main profile: [DoTruongPhat](https://github.com/DoTruongPhat)
 - Featured repository: [Booking-System](https://github.com/DoTruongPhat/Booking-System)
