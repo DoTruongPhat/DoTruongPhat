@@ -22,15 +22,14 @@ I am a fullstack developer focused on building modern web applications with Java
 
 ## Tech Stack
 
-| Category | Technologies |
+| Group | Technologies |
 | --- | --- |
-| Backend Development | Java, Spring Boot, Spring Security, REST API |
-| Frontend Development | Angular, React, JavaScript, TypeScript, HTML5, CSS3, SCSS |
-| Database & Cache | PostgreSQL, SQL Server, Redis |
-| Messaging & Async | Kafka |
-| DevOps | Docker, Git, GitHub |
-| Observability | OpenTelemetry, Grafana, Prometheus, Loki, Tempo |
-| IDE & Tools | IntelliJ IDEA, Visual Studio, VS Code, Postman |
+| Backend | Java, Spring Boot, Spring Security, REST API |
+| Frontend | Angular, React, TypeScript, JavaScript, HTML5, CSS3/SCSS |
+| Database | PostgreSQL, SQL Server, Redis |
+| Messaging | Kafka |
+| DevOps / Observability | Docker, OpenTelemetry, Git, GitHub |
+| Tools | IntelliJ IDEA, Visual Studio / VS Code |
 
 ## Featured Projects
 
@@ -41,11 +40,11 @@ Fullstack hotel reservation system built with a production-style microservice ar
 - Angular customer/admin/host UI.
 - Java Spring Boot services behind an API Gateway.
 - Keycloak authentication, JWT, role-based access, and optional 2FA.
-- PostgreSQL data layer, Redis cache, Kafka events, and Docker Compose.
+- PostgreSQL and SQL Server data layer, Redis cache, Kafka events, and Docker Compose.
 - JasperReports for booking, revenue, receipt, and export flows.
 - Observability with OpenTelemetry, Grafana, Prometheus, Loki, Promtail, and Tempo.
 
-**Stack:** Angular, TypeScript, Java, Spring Boot, PostgreSQL, Kafka, Redis, Docker, OpenTelemetry
+**Stack:** Angular, TypeScript, Java, Spring Boot, PostgreSQL, SQL Server, Kafka, Redis, Docker, OpenTelemetry
 
 [View Repository](https://github.com/DoTruongPhat/Booking-System)
 
@@ -71,9 +70,9 @@ Angular / React UI
         v
 API Gateway
         |
-        +--> Auth Service -----> PostgreSQL
-        +--> Booking Service --> PostgreSQL
-        +--> Payment Service --> PostgreSQL
+        +--> Auth Service -----> PostgreSQL / SQL Server
+        +--> Booking Service --> PostgreSQL / SQL Server
+        +--> Payment Service --> PostgreSQL / SQL Server
         +--> Workflow Service
 
 Booking Service <--> Kafka <--> Payment Service
