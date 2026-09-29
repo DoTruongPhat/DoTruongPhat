@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile/hero-animatic-preview.gif" alt="PHAT DO - Fullstack Developer" />
-</p>
-
 <h1 align="center">PHAT DO</h1>
 <h3 align="center">Fullstack Developer | Java • Spring Boot • Angular • React</h3>
 
@@ -26,14 +22,15 @@ I am a fullstack developer focused on building modern web applications with Java
 
 ## Tech Stack
 
-| Area | Technologies |
+| Category | Technologies |
 | --- | --- |
-| Backend | Java, Spring Boot, Spring Security, REST API |
-| Frontend | Angular, React, JavaScript, TypeScript, HTML5, CSS3/SCSS |
-| Database | PostgreSQL, SQL Server, Redis |
-| Messaging | Kafka |
-| DevOps / Observability | Docker, Git, GitHub, OpenTelemetry |
-| Tools | IntelliJ IDEA, Visual Studio, VS Code, Postman |
+| Backend Development | Java, Spring Boot, Spring Security, REST API |
+| Frontend Development | Angular, React, JavaScript, TypeScript, HTML5, CSS3, SCSS |
+| Database & Cache | PostgreSQL, SQL Server, Redis |
+| Messaging & Async | Kafka |
+| DevOps | Docker, Git, GitHub |
+| Observability | OpenTelemetry, Grafana, Prometheus, Loki, Tempo |
+| IDE & Tools | IntelliJ IDEA, Visual Studio, VS Code, Postman |
 
 ## Featured Projects
 
