@@ -1,21 +1,27 @@
 # Hero Video
 
-Put the final profile hero video here:
+The profile hero video is here:
 
 ```text
-assets/profile/hero.mp4
+assets/profile/hero.webm
 ```
 
 The profile README already links the banner preview to this path.
 
 Recommended export:
 
-- Format: MP4
-- Codec: H.264
+- Format: WebM
+- Codec: VP8 / VP9
 - Resolution: 1920 x 1080
 - Duration: 12-15 seconds
 - Audio: none
 - File size target: under 10 MB if possible
+
+If you later prefer MP4, export a replacement named:
+
+```text
+assets/profile/hero.mp4
+```
 
 If you export from a GIF with FFmpeg:
 

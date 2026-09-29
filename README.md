@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="./assets/profile/hero.mp4">
+  <a href="./assets/profile/hero.webm">
     <img src="./assets/profile/key-visual-preview.png" alt="PHAT DO - Fullstack Developer" width="100%" />
   </a>
   <br />
@@ -65,19 +65,19 @@ Fullstack hotel reservation system built with a production-style microservice ar
 
 [View Repository](https://github.com/DoTruongPhat/Booking-System)
 
-### 02. Payment / Reporting System
+### 02. GlassStore
 
-Payment and reporting module focused on reliable payment state, async processing, and operational visibility.
+Fullstack eyewear e-commerce system for product browsing, custom glasses design, cart, order workflow, and staff operations.
 
-- Payment initialization, callback handling, cancellation, manual sync, and refund flow.
-- Kafka-based async payment/report events.
-- JasperReports templates for revenue and booking exports.
-- Service logs, metrics, tracing, and dashboard-ready observability.
+- React customer interface with routing, cart, checkout, custom glasses design, and eye profile flows.
+- Spring Boot REST API with Spring Security and JWT authentication.
+- SQL Server database with JPA/Hibernate persistence.
+- Product, frame, lens, ready-made glasses, discount, order, review, return, and notification modules.
+- Staff/admin operations for product management, manufacturing orders, shipments, and user management.
 
-**Stack:** Java, Spring Boot, PostgreSQL, Kafka, JasperReports, OpenTelemetry
+**Stack:** React, JavaScript, Java 21, Spring Boot 3, Spring Security, JWT, SQL Server, Docker
 
-[View Payment Service](https://github.com/DoTruongPhat/Booking-System/tree/main/payment-service) ·
-[View Reporting Flow](https://github.com/DoTruongPhat/Booking-System/tree/main/booking-service)
+[View Repository](https://github.com/DoTruongPhat/GlassWeb)
 
 ## System Architecture
 
