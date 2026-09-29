@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DoTruongPhat/DoTruongPhat/main/assets/profile/hero-animatic-preview.gif" alt="PHAT DO - Fullstack Developer" />
+  <img src="./banner.png" alt="PHAT DO - Fullstack Developer" width="100%" />
 </p>
 
 <h1 align="center">PHAT DO</h1>
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DoTruongPhat?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-DoTruongPhat-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+  <a href="https://github.com/DoTruongPhat?tab=repositories">Repositories</a>
+  ·
+  <a href="mailto:dotruongphat9@gmail.com">Email</a>
 </p>
 
 ---
@@ -36,15 +36,6 @@ I am a fullstack developer focused on building modern web applications with Java
 | Messaging | Kafka |
 | DevOps / Observability | Docker, Git, GitHub, OpenTelemetry |
 | Tools | IntelliJ IDEA, Visual Studio, VS Code, Postman |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,js,ts,html,css,postgres,redis,kafka,docker,git,github,idea,vscode,postman&perline=9" alt="Tech stack icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
-</p>
 
 ## Featured Projects
 
@@ -79,38 +70,28 @@ Payment and reporting module focused on reliable payment state, async processing
 
 ## System Architecture
 
-```mermaid
-flowchart LR
-    UI[Angular / React UI] --> API[API Gateway]
-    API --> AUTH[Auth Service]
-    API --> CORE[Booking Service]
-    API --> PAY[Payment Service]
-    API --> WF[Workflow Service]
+```text
+Angular / React UI
+        |
+        v
+API Gateway
+        |
+        +--> Auth Service -----> PostgreSQL
+        +--> Booking Service --> PostgreSQL
+        +--> Payment Service --> PostgreSQL
+        +--> Workflow Service
 
-    AUTH --> DB[(PostgreSQL)]
-    CORE --> DB
-    PAY --> DB
-
-    CORE <--> KAFKA[Kafka]
-    PAY <--> KAFKA
-    CORE --> REDIS[(Redis)]
-    AUTH --> REDIS
-
-    CORE --> REPORT[JasperReports]
-    API --> OTEL[OpenTelemetry]
-    OTEL --> OBS[Grafana / Loki / Tempo / Prometheus]
+Booking Service <--> Kafka <--> Payment Service
+Booking/Auth    <--> Redis
+Booking Service ---> JasperReports
+Services        ---> OpenTelemetry ---> Grafana / Loki / Tempo / Prometheus
 ```
 
-## GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DoTruongPhat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoTruongPhat&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DoTruongPhat&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+- Main profile: [DoTruongPhat](https://github.com/DoTruongPhat)
+- Featured repository: [Booking-System](https://github.com/DoTruongPhat/Booking-System)
+- Focus languages: Java, TypeScript, JavaScript, SQL
 
 ## Current Focus
 
@@ -122,11 +103,5 @@ flowchart LR
 
 ## Contact
 
-<p align="center">
-  <a href="mailto:dotruongphat9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dotruongphat9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/DoTruongPhat">
-    <img src="https://img.shields.io/badge/GitHub-DoTruongPhat-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+- Email: [dotruongphat9@gmail.com](mailto:dotruongphat9@gmail.com)
+- GitHub: [github.com/DoTruongPhat](https://github.com/DoTruongPhat)
